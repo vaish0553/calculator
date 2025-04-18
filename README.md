@@ -1,1 +1,1 @@
-# calculator
+A beginner level calculator project 
